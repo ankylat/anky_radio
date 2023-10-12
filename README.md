@@ -1,5 +1,7 @@
 # anky_radio
 
+POWERED BY APECOIN
+
 - only holders of the anky genesis nft can add music to the database.
 - every time a piece is added, it goes to the system with a state: future.
 - the radio is an eternal thread of music, sending it from the future to the present.
